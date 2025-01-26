@@ -1,6 +1,7 @@
 #include <vector>
 #include <string>
 #include <fstream>
+#include <algorithm>
 
 using std::fstream;
 using std::ostream;
